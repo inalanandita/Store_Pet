@@ -1,0 +1,91 @@
+37: ConnectionHolder.java: 01-Jul-2013 18:55:05,257: DEBUG: initAppDatasource: FileNotFoundException java.io.FileNotFoundException: jdbc.properties (The system cannot find the file specified)
+66: ConnectionHolder.java: 01-Jul-2013 19:15:05,042: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:15:52,002: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:16:25,218: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:21:06,200: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:21:31,148: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:22:26,656: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:23:05,582: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:24:49,528: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:25:05,116: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:26:46,613: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:28:17,113: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:29:58,128: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:30:46,475: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:31:07,553: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:31:46,323: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:32:23,594: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 01-Jul-2013 19:34:10,037: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Io exception: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=153093632)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4)))))
+66: ConnectionHolder.java: 02-Jul-2013 09:48:22,537: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+66: ConnectionHolder.java: 02-Jul-2013 10:24:53,900: DEBUG: getConnection: org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (ORA-04031: unable to allocate 20452 bytes of shared memory ("shared pool","unknown object","sga heap(1,0)","session param values")
+)
+108: DBHelper.java: 03-Jul-2013 09:53:48,195: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-02291: integrity constraint (TRG02.SYS_C00148559) violated - parent key not found
+
+108: DBHelper.java: 03-Jul-2013 10:14:36,803: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-01008: not all variables bound
+
+108: DBHelper.java: 03-Jul-2013 10:22:26,191: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-02291: integrity constraint (TRG02.SYS_C00148559) violated - parent key not found
+
+74: DBHelper.java: 03-Jul-2013 15:27:16,203: DEBUG: executeSelect: Sql Errorjava.sql.SQLException: ORA-00942: table or view does not exist
+
+74: DBHelper.java: 03-Jul-2013 15:33:33,951: DEBUG: executeSelect: Sql Errorjava.sql.SQLException: ORA-00942: table or view does not exist
+
+74: DBHelper.java: 03-Jul-2013 15:37:11,533: DEBUG: executeSelect: Sql Errorjava.sql.SQLException: ORA-00942: table or view does not exist
+
+33: DBHelper.java: 03-Jul-2013 17:39:09,233: DEBUG: executeSelect: Sql Errorjava.sql.SQLException: ORA-02289: sequence does not exist
+
+74: DBHelper.java: 04-Jul-2013 12:01:36,695: DEBUG: executeSelect: Sql Errorjava.sql.SQLException: ORA-01006: bind variable does not exist
+
+192: OrderDAO.java: 04-Jul-2013 12:01:36,726: DEBUG: PriceForOrderid: com.nttdata.dbfw.DBFWException: Execution Failed
+74: DBHelper.java: 04-Jul-2013 12:19:06,568: DEBUG: executeSelect: Sql Errorjava.sql.SQLException: ORA-01006: bind variable does not exist
+
+192: OrderDAO.java: 04-Jul-2013 12:19:06,599: DEBUG: PriceForOrderid: com.nttdata.dbfw.DBFWException: Execution Failed
+74: DBHelper.java: 04-Jul-2013 12:24:27,665: DEBUG: executeSelect: Sql Errorjava.sql.SQLException: ORA-01006: bind variable does not exist
+
+192: OrderDAO.java: 04-Jul-2013 12:24:27,727: DEBUG: PriceForOrderid: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 07-Jul-2013 11:08:27,342: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-02291: integrity constraint (TRG02.SYS_C00148643) violated - parent key not found
+
+97: OrderDAO.java: 07-Jul-2013 11:08:27,357: DEBUG: insertNewOrder: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 07-Jul-2013 11:08:48,512: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-02291: integrity constraint (TRG02.SYS_C00148643) violated - parent key not found
+
+97: OrderDAO.java: 07-Jul-2013 11:08:48,527: DEBUG: insertNewOrder: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 07-Jul-2013 11:41:41,936: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-00001: unique constraint (TRG02.SYS_C00148532) violated
+
+69: UserDAO.java: 07-Jul-2013 11:41:41,952: DEBUG: registerUser: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 07-Jul-2013 11:42:31,048: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-00001: unique constraint (TRG02.SYS_C00148532) violated
+
+69: UserDAO.java: 07-Jul-2013 11:42:31,079: DEBUG: registerUser: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 07-Jul-2013 11:42:45,542: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-00001: unique constraint (TRG02.SYS_C00148532) violated
+
+69: UserDAO.java: 07-Jul-2013 11:42:45,573: DEBUG: registerUser: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 07-Jul-2013 11:43:20,285: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-00001: unique constraint (TRG02.SYS_C00148532) violated
+
+69: UserDAO.java: 07-Jul-2013 11:43:20,301: DEBUG: registerUser: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 07-Jul-2013 11:46:12,619: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-00001: unique constraint (TRG02.SYS_C00148532) violated
+
+69: UserDAO.java: 07-Jul-2013 11:46:12,635: DEBUG: registerUser: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 07-Jul-2013 11:46:44,383: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-00001: unique constraint (TRG02.SYS_C00148532) violated
+
+69: UserDAO.java: 07-Jul-2013 11:46:44,414: DEBUG: registerUser: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 07-Jul-2013 11:51:58,147: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-00001: unique constraint (TRG02.SYS_C00148532) violated
+
+69: UserDAO.java: 07-Jul-2013 11:51:58,178: DEBUG: registerUser: com.nttdata.dbfw.DBFWException: Execution Failed
+108: DBHelper.java: 13-Jul-2013 13:16:51,087: DEBUG: executeUpdate: Sql Errorjava.sql.SQLException: ORA-00001: unique constraint (TRG02.SYS_C00148532) violated
+
+69: UserDAO.java: 13-Jul-2013 13:16:51,118: DEBUG: registerUser: com.nttdata.dbfw.DBFWException: Execution Failed
